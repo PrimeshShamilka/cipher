@@ -1,5 +1,5 @@
 from monoalphabetic_cipher import converter
-import matplotlib.pyplot as plt;
+import matplotlib.pyplot as plt
 import numpy as np
 
 key = 'QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm'
