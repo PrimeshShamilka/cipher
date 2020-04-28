@@ -1,3 +1,12 @@
+'''
+   Copyright (c) 2020, Primesh Shamilka,
+   email: primeshs.17@cse.mrt.ac.lk
+   All rights reserved. https://github.com/PrimeshShamilka/
+   
+   Revision history:
+	  April 28th, 2020: initial version.
+'''
+
 from monoalphabetic_cipher import converter
 import matplotlib.pyplot as plt
 import numpy as np
