@@ -14,3 +14,13 @@
 5. Identify the 5 ciphertext characters with the highest frequency and speculate on the mapping to the plaintext characters in    the alphabet.
 
 6. Prepare a partial decryption of the ciphertext with only the identified top-5 characters replaced with their corresponding      plaintext guesses.
+
+### Character frequency distribution graph 
+
+![](https://github.com/PrimeshShamilka/cipher/blob/master/character%20frequency%20distriution.png)
+
+## How to run
+
+To run the cipher, clone this repository and run main.py script. 
+
+Happy coding!. 
