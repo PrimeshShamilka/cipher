@@ -1,7 +1,7 @@
 # cipher
 ## mono-alphabetic substitution cipher for the alphabet of English characters A to Z 
 
-### Continuous assessment for Week 1 - Classical Encryption/Substitution Cipher
+### Problem definition - Classical Encryption/Substitution Cipher
 
 1. Select a Wikipedia article of minimum 10,000 words as your plaintext P.
 
